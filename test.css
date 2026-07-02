@@ -5,12 +5,12 @@ body{
 }
 .hero-image{
     background-image: url(./Images/better\ hero\ img.png);
-    height: 130px;
+    height: 150px;
     width: 100%;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: auto;
     position: absolute;
+    background-size: auto;
 }
 
 .hero-text{
