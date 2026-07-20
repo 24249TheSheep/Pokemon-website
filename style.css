@@ -5,12 +5,13 @@ body{
 }
 .hero-image{
     background-image: url(./Images/better\ hero\ img.png);
-    height: 130px;
+    height: 150px;
     width: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: auto;
     position: absolute;
+    display: block;
 }
 
 .hero-text{
@@ -19,11 +20,11 @@ body{
     top: 180px;
     width: 100%;
     font-size: 4rem;
-    margin-top: 25px;
+    margin-top: 37px;
 }
 
 .two-column{
-    width: 50%;
+    width: 75%;
     height: auto;
     margin: auto;
     padding-top: 300px;
@@ -33,9 +34,19 @@ body{
 }
 
 img{
-    display: inline-block;
+    display: block;
+    width: 900px;
+    padding-right: 200px;
 }
 
 p{
     font-family: 'Raleway';
+    font-size: 25px;
+    padding-right: 25px;
+}
+
+h1{
+    font-family: 'Raleway';
+    font-size: 35px;
+    padding-right: 35px;
 }
