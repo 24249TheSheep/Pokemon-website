@@ -30,12 +30,12 @@ body{
 .hero-image{
     background-image: url(./Images/better\ hero\ img.png);
     height: 150px;
-    width: 100%;
+    width: 99.15%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: auto;
     display: block;
-    position: fixed;
+    position: absolute;
 }
 
 .hero-text{
@@ -74,4 +74,9 @@ h1{
     font-family: 'Raleway';
     font-size: 35px;
     
+}
+
+image{
+    width: 200px;
+    object-position: center;
 }
