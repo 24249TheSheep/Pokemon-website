@@ -49,12 +49,38 @@ body{
 
 .two-column{
     width: 75%;
-    height: auto;
+    height: 75%;
     margin: auto;
-    padding-top: 300px;
+    padding-top: 200px;
     display: grid;
     grid-template-columns: 1fr 2fr;
     gap: 50px;
+}
+
+.two-column img{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 50px;
+    width: 80%;
+    height: auto;
+}    
+
+.two-column{
+    width: 75%;
+    height: 75%;
+    margin: auto;
+    padding-top: 200px;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 50px;
+}
+
+.two-column img{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 50px;
+    width: 80%;
+    height: auto;
 }
 
 img{
@@ -76,7 +102,5 @@ h1{
     
 }
 
-image{
-    width: 200px;
-    object-position: center;
-}
+
+
