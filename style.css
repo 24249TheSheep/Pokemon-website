@@ -51,36 +51,47 @@ body{
     width: 75%;
     height: 75%;
     margin: auto;
-    padding-top: 200px;
+    padding-top: 100px;
     display: grid;
     grid-template-columns: 1fr 2fr;
-    gap: 50px;
+    gap: 25px;
 }
 
 .two-column img{
     display: grid;
     grid-template-columns: 1fr 2fr;
-    gap: 50px;
+    gap: 25px;
     width: 80%;
     height: auto;
+
 }    
 
-.two-column{
+.two-column-top{
     width: 75%;
     height: 75%;
     margin: auto;
     padding-top: 200px;
     display: grid;
     grid-template-columns: 1fr 2fr;
-    gap: 50px;
+    gap: 25px;
 }
 
-.two-column img{
+.two-column-top img{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 0px;
+    width: 70%;
+    height: auto;
+}    
+
+.two-column-home{
+    width: 75%;
+    height: auto;
+    margin: auto;
+    padding-top: 300px;
     display: grid;
     grid-template-columns: 1fr 2fr;
     gap: 50px;
-    width: 80%;
-    height: auto;
 }
 
 img{
