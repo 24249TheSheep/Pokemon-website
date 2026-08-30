@@ -47,7 +47,7 @@ body{
     margin-top: 37px;
 }
 
-.two-column{
+.three-column{
     width: 75%;
     height: 75%;
     margin: auto;
@@ -57,17 +57,18 @@ body{
     gap: 25px;
 }
 
-.two-column img{
+.three-column img{
     display: grid;
     grid-template-columns: 2fr 3fr 0.8fr;
     gap: 25px;
     width: 80%;
     height: auto;
+    margin-bottom: 15px;
     
 
 }    
 
-.two-column-top{
+.three-column-top{
     width: 75%;
     height: 75%;
     margin: auto;
@@ -76,12 +77,13 @@ body{
     gap: 25px;
 }
 
-.two-column-top img{
+.three-column-top img{
     display: grid;
     grid-template-columns: 2fr 3fr 0.8fr;
     gap: 0px;
-    width: 70%;
+    width: 80%;
     height: auto;
+    margin-bottom: 15px;
 }    
 
 .two-column-home{
