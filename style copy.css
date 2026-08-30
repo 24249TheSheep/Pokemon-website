@@ -72,13 +72,13 @@ body{
     height: 75%;
     margin: auto;
     display: grid;
-    grid-template-columns: 2fr 3fr 0.8fr;
+    grid-template-columns: 1fr 2fr 1fr;
     gap: 25px;
 }
 
 .two-column-top img{
     display: grid;
-    grid-template-columns: 2fr 3fr 0.8fr;
+    grid-template-columns: 1fr 2fr 1fr;
     gap: 0px;
     width: 70%;
     height: auto;
