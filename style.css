@@ -6,7 +6,6 @@
     width: 100%;
   }
   
-  /* Style the links inside the navigation bar */
   .topnav a {
     float: left;
     color: #000000;
@@ -17,7 +16,6 @@
     
   }
   
-  /* Change the color of links on hover */
   .topnav a:hover {
     background-color: rgb(170, 153, 20);
     color: black;
