@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
 
-.topnav {
+.topnav{
     background-color: #ceb814ff;
     overflow: hidden;
     width: 100%;
   }
   
-  .topnav a {
+  .topnav a{
     float: left;
     color: #000000;
     text-align: center;
@@ -16,7 +16,7 @@
     
   }
   
-  .topnav a:hover {
+  .topnav a:hover{
     background-color: rgb(170, 153, 20);
     color: black;
   }
@@ -101,7 +101,6 @@ img{
 }
 
 p{
-    margin-top: ;
     font-family: 'Raleway';
     font-size: 25px;
    
